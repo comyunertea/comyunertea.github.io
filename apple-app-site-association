@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "NA89K8K4BB.com.yuner.tea",
+                "paths": [ "/wxshare/*"]
+            }
+        ]
+    }
+}
